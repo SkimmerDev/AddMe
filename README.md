@@ -1,7 +1,7 @@
 # The public request list to join Skimmer Lite project Discussions/Feature requests/Suggestions
 
 ## How to
-- Use Issues to create you join request  <a href=https://github.com/SkimmerDev/AddMe/issues>Issues</a><br>
+- Use <a href=https://github.com/SkimmerDev/AddMe/issues>Issues tab</a><br> to create you join request  
 - Click on [New Issue] button, fill "Title" with your join request text
 - Enter your github ID and valid callsign into 'Write' field.
 
