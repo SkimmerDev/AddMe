@@ -1,6 +1,7 @@
 # The public request to join list
 
 This repository is used to join Skimmer Lite project Discussions, Feature requests,Suggestions
+
 Этот раздел служит для запросов на присоединение к группе для обсуждений Скиммера версии Lite, размещения запросов на добавление функционала и т.д. 
 
 ## How to
