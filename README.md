@@ -1,6 +1,6 @@
-# The public request to join list
+# Request to join Skimmer Lite project Discussions/Feature/Suggestions group.
 
-### This repository is used to join Skimmer Lite project Discussions, Feature requests,Suggestions. 
+
 Who we are inviting:
 - 3rd party developers, who are running their own TCI-based products (i.e. logs, extensions, etc) and wish to seamlessly integrate with skimmer in a future, or want to ask a feature to be developed in the skimmer to allow custom integration.
 - Active CW contestmen, who have custom feature requests, requests for specific UI or specific add-on.
