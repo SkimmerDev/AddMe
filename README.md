@@ -1,10 +1,10 @@
 # The public request to join list
 
-This repository is used to join Skimmer Lite project Discussions, Feature requests,Suggestions
+### This repository is used to join Skimmer Lite project Discussions, Feature requests,Suggestions. 
 
-Этот раздел служит для запросов на присоединение к группе для обсуждений Скиммера версии Lite, размещения запросов на добавление функционала и т.д. 
+### Этот раздел служит для запросов на присоединение к группе для обсуждений Скиммера версии Lite, размещения запросов на добавление функционала и т.д. 
 
-## How to
+## How to join
 - Use <a href=https://github.com/SkimmerDev/AddMe/issues>Issues tab</a> to create you free-form join request  
 - Click on [New Issue] button, fill "Title" with your join request text
 - Enter your github ID with the link to your profile and valid callsign into 'Write' field.
