@@ -1,13 +1,13 @@
 # Request to join Skimmer Lite project Discussions/Feature/Suggestions group.
 
 
-Who we are inviting:
+Who we are inviting at this stage:
 - 3rd party developers, who are running their own TCI-based products (i.e. logs, extensions, etc) and wish to seamlessly integrate with skimmer in a future, or want to ask a feature to be developed in the skimmer to allow custom integration.
 - Active CW contestmen, who have custom feature requests, requests for specific UI or specific add-on.
 - Active DXpedition operators,  who have custom feature/integration requests
 
 ### Этот раздел служит для запросов на присоединение к группе для обсуждений Скиммера версии Lite, размещения запросов на добавление функционала и т.д. 
-Кого мы приглашаем к участию:
+Кого мы приглашаем к участию в текущий момент:
 - Программистов, которые ведут собственные проекты на основе TCI (например логи) и хотят заранее познакомиться с вариантами интеграции со скиммером и/или хотят предложить дополнительные опции интеграции скиммера со своими проектами.
 - Активных CW контестменов, у которые хотели бы предложить расширить функционал скиммера, добавить какие-то фичи для интеграции скиммера с другими программами, которые обычно используются в контестах.
 - Активных операторов DXпедиций, имеющих специальные запросы на функционал и/или интеграцию скиммера. 
